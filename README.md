@@ -1,4 +1,5 @@
 # 💫 About Me:
+# Failure
 Yo! I am working on learning!<br>It's all jumbled 😅<br>Practising Data Science and Machine Learning on Kaggle to DSA from NeetCode to learning Swift for IOS development!!<br><br>You can ask me about Django Backend development, machine learning, frontend or basically anything to study as I have delved into almost everything!<br><br>Fun Fact! Did you know chic is pronounced as *sheek*? <br>Best quote: Ignorance is Bliss ✨
 
 
